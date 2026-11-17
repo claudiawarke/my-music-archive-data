@@ -1,7 +1,20 @@
-
 {
-  "schema_version": 1,
   "import_id": "2026-11",
-  "imported_at": null,
-  "songs": []
+  "songs": [
+    {
+      "track_id": "TEST_TRACK_001",
+      "title": "Test Song",
+      "artist_ids": ["TEST_ARTIST_001"],
+      "artist_names": ["Test Artist"],
+      "album_id": "TEST_ALBUM_001",
+      "album_title": "Test Album",
+      "release_date": "2026-10-01",
+      "release_date_precision": "day",
+      "track_number": 1,
+      "disc_number": 1,
+      "duration_ms": 210000,
+      "explicit": false,
+      "liked_at": "2026-11-17T10:00:00Z"
+    }
+  ]
 }
