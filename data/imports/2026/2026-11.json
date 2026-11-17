@@ -1,12 +1,13 @@
+
 {
   "import_id": "2026-11",
   "songs": [
     {
-      "track_id": "TEST_TRACK_001",
+      "track_id": "test-track-001",
       "title": "Test Song",
-      "artist_ids": ["TEST_ARTIST_001"],
+      "artist_ids": ["test-artist-001"],
       "artist_names": ["Test Artist"],
-      "album_id": "TEST_ALBUM_001",
+      "album_id": "test-album-001",
       "album_title": "Test Album",
       "release_date": "2026-10-01",
       "release_date_precision": "day",
