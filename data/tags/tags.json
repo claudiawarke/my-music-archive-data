@@ -1,7 +1,12 @@
-
 {
   "schema_version": 1,
-  "genres": [],
-  "moods": [],
-  "languages": []
+  "genres": [
+    "Indie Pop"
+  ],
+  "moods": [
+    "Dreamy"
+  ],
+  "languages": [
+    "English"
+  ]
 }
