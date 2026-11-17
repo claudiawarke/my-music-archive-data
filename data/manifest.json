@@ -1,0 +1,12 @@
+
+{
+  "schema_version": 1,
+  "library_name": "My Music Archive",
+  "last_updated": null,
+  "imports": [],
+  "albums": "albums/albums.json",
+  "artists": "artists/artists.json",
+  "tags": "tags/tags.json",
+  "playlists": "playlists/playlists.json",
+  "annotations": []
+}
