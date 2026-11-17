@@ -1,5 +1,17 @@
-
 {
   "schema_version": 1,
-  "albums": []
+  "albums": [
+    {
+      "album_id": "test-album-001",
+      "album_title": "Test Album",
+      "artist_ids": ["test-artist-001"],
+      "artist_names": ["Test Artist"],
+      "release_date": "2026-01-01",
+      "album_type": "album",
+      "total_tracks": 1,
+      "artwork_url": "",
+      "spotify_url": "",
+      "track_ids": ["test-track-001"]
+    }
+  ]
 }
