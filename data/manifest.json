@@ -3,10 +3,14 @@
   "schema_version": 1,
   "library_name": "My Music Archive",
   "last_updated": null,
-  "imports": [],
+  "imports": [
+    "imports/2026/2026-11.json"
+  ],
   "albums": "albums/albums.json",
   "artists": "artists/artists.json",
   "tags": "tags/tags.json",
   "playlists": "playlists/playlists.json",
-  "annotations": []
+  "annotations": [
+    "annotations/annotations.json"
+  ]
 }
