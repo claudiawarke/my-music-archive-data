@@ -1,5 +1,10 @@
-
 {
   "schema_version": 1,
-  "artists": []
+  "artists": [
+    {
+      "artist_id": "test-artist-001",
+      "artist_name": "Test Artist",
+      "spotify_url": ""
+    }
+  ]
 }
