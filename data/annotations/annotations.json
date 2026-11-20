@@ -1,5 +1,13 @@
-
 {
   "schema_version": 1,
-  "annotations": []
+  "annotations": [
+    {
+      "track_id": "test-track-001",
+      "key_lyric": "Example lyric",
+      "genres": ["Indie pop"],
+      "moods": ["Dreamy"],
+      "language": "English",
+      "notes": ""
+    }
+  ]
 }
