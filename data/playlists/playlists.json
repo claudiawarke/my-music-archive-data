@@ -7,18 +7,12 @@
       "description": "Dreamy indie pop songs",
       "match_mode": "all",
       "rules": {
-        "genres": ["Indie pop"],
-        "moods": ["Dreamy"]
-      }
-    },
-    {
-      "id": "feel-good-songs",
-      "name": "Feel Good Songs",
-      "description": "Songs with an uplifting feel",
-      "match_mode": "any",
-      "rules": {
-        "genres": [],
-        "moods": ["Happy", "Uplifting"]
+        "genres": ["Indie pop", "Alternative pop"],
+        "moods": ["Dreamy", "Nostalgic"],
+        "languages": ["English"],
+        "artists": [],
+        "albums": [],
+        "key_lyrics": []
       }
     }
   ]
